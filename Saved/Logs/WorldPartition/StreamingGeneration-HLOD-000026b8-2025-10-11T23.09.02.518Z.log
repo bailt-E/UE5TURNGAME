@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/MAP/NewWorld
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:3719B04541A9199A62E8FF98ADEEF184 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_581122D29826849702_2018055183 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:425B9B644765E43A533839A4F6CAA20D BaseClass:/Game/BP/BP_modelE/BP_GLOBAL_CHARATER.BP_GLOBAL_CHARATER_C NativeClass:/Script/Engine.Character Name:BP_GLOBAL_CHARATER_C_UAID_581122D2982612F401_2121229992 Label:BP_GLOBAL_CHARATER SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=516.000 Y=316.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:8EDBC89D434410A2798EEFAD72ABD9CF BaseClass:/Game/BP/BP_modelE/BP_land_spaner.BP_land_spaner_C NativeClass:/Script/Engine.Actor Name:BP_land_spaner_C_UAID_581122D2982612F401_1224168991 Label:BP_land_spaner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-89.778 Y=-40.000 Z=495.813), Max=(X=89.778 Y=40.000 Z=688.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3719B04541A9199A62E8FF98ADEEF184 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_581122D29826849702_2018055183 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:425B9B644765E43A533839A4F6CAA20D BaseClass:/Game/BP/BP_modelE/BP_GLOBAL_CHARATER.BP_GLOBAL_CHARATER_C NativeClass:/Script/Engine.Character Name:BP_GLOBAL_CHARATER_C_UAID_581122D2982612F401_2121229992 Label:BP_GLOBAL_CHARATER SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=516.000 Y=316.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:8EDBC89D434410A2798EEFAD72ABD9CF BaseClass:/Game/BP/BP_modelE/BP_land_spaner.BP_land_spaner_C NativeClass:/Script/Engine.Actor Name:BP_land_spaner_C_UAID_581122D2982612F401_1224168991 Label:BP_land_spaner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-89.778 Y=-40.000 Z=495.813), Max=(X=89.778 Y=40.000 Z=688.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MAP/NewWorld
