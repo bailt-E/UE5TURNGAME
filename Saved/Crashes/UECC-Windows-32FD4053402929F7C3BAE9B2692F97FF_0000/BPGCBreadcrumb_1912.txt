@@ -1,0 +1,2 @@
+/Game/gamemode/2Dgame_PlayerState.Default__2Dgame_PlayerState_C
+/Game/gamemode/2Dgame_PlayerState.2Dgame_PlayerState_C

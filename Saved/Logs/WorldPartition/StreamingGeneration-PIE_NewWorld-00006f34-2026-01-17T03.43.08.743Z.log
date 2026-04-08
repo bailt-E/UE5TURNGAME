@@ -1,0 +1,73 @@
+[+] Containers:
+ |- [+] Container: /Game/MAP/NewWorld
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:3719B04541A9199A62E8FF98ADEEF184 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_581122D29826849702_2018055183 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:425B9B644765E43A533839A4F6CAA20D BaseClass:/Game/BP/BP_modelE/BP_GLOBAL_CHARATER.BP_GLOBAL_CHARATER_C NativeClass:/Script/Engine.Character Name:BP_GLOBAL_CHARATER_C_UAID_581122D2982612F401_2121229992 Label:BP_GLOBAL_CHARATER SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=516.000 Y=316.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:8EDBC89D434410A2798EEFAD72ABD9CF BaseClass:/Game/BP/BP_modelE/BP_land_spaner.BP_land_spaner_C NativeClass:/Script/Engine.Actor Name:BP_land_spaner_C_UAID_581122D2982612F401_1224168991 Label:BP_land_spaner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-89.778 Y=-40.000 Z=495.813), Max=(X=89.778 Y=40.000 Z=688.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3719B04541A9199A62E8FF98ADEEF184 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_581122D29826849702_2018055183 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:425B9B644765E43A533839A4F6CAA20D BaseClass:/Game/BP/BP_modelE/BP_GLOBAL_CHARATER.BP_GLOBAL_CHARATER_C NativeClass:/Script/Engine.Character Name:BP_GLOBAL_CHARATER_C_UAID_581122D2982612F401_2121229992 Label:BP_GLOBAL_CHARATER SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=516.000 Y=316.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:8EDBC89D434410A2798EEFAD72ABD9CF BaseClass:/Game/BP/BP_modelE/BP_land_spaner.BP_land_spaner_C NativeClass:/Script/Engine.Actor Name:BP_land_spaner_C_UAID_581122D2982612F401_1224168991 Label:BP_land_spaner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-89.778 Y=-40.000 Z=495.813), Max=(X=89.778 Y=40.000 Z=688.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MAP/NewWorld
+----------------------------------------------------------------------------------------------------------------
+NewWorld - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of NewWorld Persistent Level
+ |- Always loaded Actor Count: 3 
+ |- Actor Path: /Game/MAP/NewWorld.NewWorld:PersistentLevel.DirectionalLight_UAID_581122D29826849702_2018055183
+ |- Actor Package: /Game/__ExternalActors__/MAP/NewWorld/9/JY/PLNPM4NZHUF68JKAZCGDJA
+ |- Actor Path: /Game/MAP/NewWorld.NewWorld:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/MAP/NewWorld/D/1B/GRIKDUOESZUVE576B9VQMB
+ |- Actor Path: /Game/MAP/NewWorld.NewWorld:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MAP/NewWorld/D/7Z/MEVS0M228KJCU2PWGU95F3
+
+----------------------------------------------------------------------------------------------------------------
+NewWorld - Runtime Spatial Hash
+----------------------------------------------------------------------------------------------------------------
+[+] StreamingGrids
+ |- [+] MainGrid
+ |   |-             Origin: X=0.000 Y=0.000 Z=0.000
+ |   |-          Cell Size: 25600
+ |   |-       World Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=584.000 Y=384.000 Z=176.000)
+ |   |-      Loading Range: 76800.00
+ |   |- Block Slow Loading: No
+ |   |-  ClientOnlyVisible: No
+ |   |- 
+ |   |- [+] Grid Levels: 2
+ |   |   |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count    2 (100.0%)
+ |   |   |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |   |- 
+ |   |- [+] Content of Grid Level 0
+ |   |   |- [+] Content of Cell NewWorld_MainGrid_L0_X0_Y0 (2JWDHSJG0VGL8HILHUYIR4YK2)
+ |   |   |   |- Actor Count: 2
+ |   |   |   |- [+] /Game/MAP/NewWorld.NewWorld:PersistentLevel.BP_GLOBAL_CHARATER_C_UAID_581122D2982612F401_2121229992
+ |   |   |   |   |-         Package: /Game/__ExternalActors__/MAP/NewWorld/D/P4/9IYRI679QV8P8P0DT2QG4U
+ |   |   |   |   |-     Editor Only: 0
+ |   |   |   |   |-   Instance Guid: 425B9B644765E43A533839A4F6CAA20D
+ |   |   |   |   |- [+] Container:
+ |   |   |   |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |   |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |   |   |- [+] /Game/MAP/NewWorld.NewWorld:PersistentLevel.BP_land_spaner_C_UAID_581122D2982612F401_1224168991
+ |   |   |   |   |-         Package: /Game/__ExternalActors__/MAP/NewWorld/D/QL/CCDZJZKUGV9ROCMJ4G3S0Q
+ |   |   |   |   |-     Editor Only: 0
+ |   |   |   |   |-   Instance Guid: 8EDBC89D434410A2798EEFAD72ABD9CF
+ |   |   |   |   |- [+] Container:
+ |   |   |   |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |   |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- [+] Content of Grid Level 1
+ |   |- 
